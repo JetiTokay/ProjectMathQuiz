@@ -1,3 +1,5 @@
+HOW DOES IT WORK
+-its a game that generates random Math proboms like a Quiz  
 
 import random
 import time
